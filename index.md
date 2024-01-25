@@ -4,9 +4,9 @@ permalink: /
 layout: default
 ---
 
-#Witaj na testowej stronie
+# Witaj na testowej stronie
 
-##Test2
+## Test2
 
-###Test3
+### Test3
 
