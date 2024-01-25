@@ -4,9 +4,26 @@ permalink: /
 layout: default
 ---
 
-# Witaj na testowej stronie
+# Pierwszy Nagłówek
 
-## Test2
+## Drugi Nagłówek
 
-### Test3
+### Trzeci Nagłówek ...
+
+- Punkt
+- Kolejny punkt
+
+* inny sposob
+* na punkty
+
+1. Liczba 1
+2. Liczba 2
+3. Liczba 3
+
+**Pogrubiony tekst**  
+*Krzywy tekst*  
+***Pogrubiony i krzywy***  
+
+
+
 
