@@ -1,6 +1,6 @@
 ---
 title: "Testowa strona 2"
-permalink: /newfolder/
+permalink: /
 layout: default
 ---
 
