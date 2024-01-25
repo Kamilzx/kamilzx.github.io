@@ -1,3 +1,9 @@
+---
+title: "Testowa strona 2"
+permalink: /
+layout: default
+---
+
 # Witaj na testowej stronie 2 
 
 ## Test2 2 
