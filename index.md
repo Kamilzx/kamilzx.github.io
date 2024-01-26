@@ -58,7 +58,7 @@ $$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
 
 [^1]: My_reference.
 
-[zmienna1]: www.google.com
+[zmienna1]: https://www.google.com
 
 Kod jakiś `int main()` tutaj napisalem
 
