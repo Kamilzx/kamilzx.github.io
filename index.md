@@ -44,6 +44,10 @@ _Adam Mickiewicz_ powiedział kiedyś
 > - Ten tylko się dowie
 > 1. Co cię stracił
 
+[^1]: My_reference.
+
+[zmienna1]: https://www.google.com
+
 Here is a footnote[^1]. With some additional text after it.
 
 [linkacz](zmienna1)
@@ -55,10 +59,6 @@ Here is a footnote[^1]. With some additional text after it.
 $x+12$ zapis matematyczny x+12
 
 $$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
-
-[^1]: My_reference.
-
-[zmienna1]: https://www.google.com
 
 Kod jakiś `int main()` tutaj napisalem
 
